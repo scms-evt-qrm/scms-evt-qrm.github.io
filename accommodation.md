@@ -14,6 +14,8 @@ permalink: /accommodation/
   <p><img src="/screenshot.png"/></p>
 </div>
 
+<img src="/readme_banner.svg"/>
+
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
