@@ -5,7 +5,7 @@ permalink: /organizers/
 ---
 
 
-##Organizing Committee
+## Organizing Committee
 <p>Tiandong Wang (Fudan)</p>
 <p>Yanxi Hou (Fudan)</p>
 <p>Deyuan Li (Fudan)</p>
