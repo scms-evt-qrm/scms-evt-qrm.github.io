@@ -3,6 +3,13 @@ layout: page
 title: Program
 permalink: /program/
 ---
+<table>
+<thead>
+<th>Meeting</th>
+<th>Date</th>
+<th>Institute</th>
+<th>City</th>
+</thead>
 
 ## Keynote Speaker
 <p>John Einmahl (Tilburg)</p>
