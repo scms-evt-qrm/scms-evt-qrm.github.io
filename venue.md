@@ -24,4 +24,4 @@ SCMS(Shanghai Center for Mathematical Sciences) locates on Jiangwan Campus, Fuda
 <p><b>From Shanghai Railway Station to SCMS:</b></p>
 
 <p>1. Take a taxi (about 40 RMB).</p>
-<p>2. Take Shanghai subway line 3 and subway line 8 and  then subway line 10 to New Jiangwan Town Station, and walk for about 10 minutes. (About 20 RMB).</b></p>
+<p>2. Take Shanghai subway line 3 and subway line 8 and  then subway line 10 to New Jiangwan Town Station, and walk for about 10 minutes. (About 20 RMB).</p>
