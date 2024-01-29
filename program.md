@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program
+title: Conference Program
 permalink: /program/
 ---
 
