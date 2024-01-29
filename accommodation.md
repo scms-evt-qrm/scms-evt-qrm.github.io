@@ -3,29 +3,5 @@ layout: page
 title: Accommodation
 permalink: /accommodation/
 ---
-<div align="center">
-  <p><em><strong>Disclaimer:</strong> The information here may vary depending on the version you're using.<br/>
-  Please refer to the <code>README.md</code> bundled within the theme-gem for information specific to your version or by pointing
-  your browser to the Git tag corresponding to your version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md.<br/>
-  Running <code>bundle show minima</code> will provide you with the local path to your current theme version.</em></p>
-  <img src="/readme_banner.svg"/>
-  <p>It's Jekyll's default (and first) theme. It's what you get when you run <code>jekyll new</code>.</p>
-  <p><a href="https://jekyll.github.io/minima/">Theme preview</a></p>
-  <p><img src="/screenshot.png"/></p>
-</div>
-
-<img src="/readme_banner.svg"/>
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-<p><img src="/screenshot.png"/></p>
-[jekyll-organization]: https://github.com/jekyll
+<p><b>Find and Book Hotels<b></p>
+further information at https://scms.fudan.edu.cn/Visit/Directions.htm###
