@@ -5,11 +5,32 @@ permalink: /program/
 ---
 <table>
 <thead>
-<th>Meeting</th>
+<th>Time</th>
 <th>Date</th>
-<th>Institute</th>
-<th>City</th>
+<th>Time</th>
+<th>Date</th>
 </thead>
+<tr>
+
+<td>1</td>
+
+<td>2</td>
+
+<td>3</td>
+<td>4</td>
+
+</tr>
+<tr>
+
+<td>1</td>
+
+<td>2</td>
+
+<td>3</td>
+<td>4</td>
+
+</tr>
+</table>
 
 ## Keynote Speaker
 <p>John Einmahl (Tilburg)</p>
