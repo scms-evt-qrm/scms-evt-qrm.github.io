@@ -3,5 +3,4 @@ layout: page
 title: Registration
 permalink: /registration/
 ---
-
-under construction
+<b>under construction<b>
