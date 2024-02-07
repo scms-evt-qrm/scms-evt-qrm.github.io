@@ -40,3 +40,5 @@ permalink: /program/
 ## Invited Speaker
 <p>Bikramjit Das (SUTD)</p>
 <p>Ting Zhang (U of Georgia)</p>
+<p>Mihyun Kim (West Virginia)</p>
+<p>Jeongjin Lee (U of Namur)</p>
