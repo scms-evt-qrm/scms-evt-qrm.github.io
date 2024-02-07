@@ -4,8 +4,8 @@ title: Organizers
 permalink: /organizers/
 ---
 
- 
-## Organizing Committee
+<div align="center">
+<p style="font-size:30px;">Local Organizers</p>
 <p>Tiandong Wang (Fudan)</p>
 <p>Yanxi Hou (Fudan)</p>
 <p>Deyuan Li (Fudan)</p>
@@ -13,4 +13,4 @@ permalink: /organizers/
 <p>Ruodu Wang (U of Waterloo)</p>
 <p>Zhengjun Zhang (University of Chinese Academy of Sciences)</p>
 <p>Chen Zhou (Erasmus)</p>
-
+</div>
