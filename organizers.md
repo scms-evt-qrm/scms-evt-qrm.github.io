@@ -3,6 +3,22 @@ layout: page
 title: Organizers
 permalink: /organizers/
 ---
+<!DOCTYPE html> 
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>两个DIV并排</title> 
+<style> 
+.div-c{ float:left;width:49%;border:1px solid #F00} 
+.div-d{ float:right;width:49%;border:1px solid #000} 
+</style> 
+</head> 
+<body> 
+<div class="div-c">第三个DIV盒子</div> 
+<div class="div-d">第四个DIV盒子</div> 
+</body> 
+</html> 
+
 
 <div align="left">
 <p style="font-size:28px;">Local Organizers</p>
