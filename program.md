@@ -38,9 +38,13 @@ permalink: /program/
 <p>Holger Rootzén (Chalmers)</p>
 
 ## Invited Speaker
+<p>Tim Boonen (HKU)</p>
 <p>Bikramjit Das (SUTD)</p>
 <p>Mihyun Kim (West Virginia)</p>
 <p>Jeongjin Lee (U of Namur)</p>
+<p>Yi Shen (Waterloo)</p>
+<p>Hoi Ying Wong (CUHK)</p>
+<p>Fan Yang (Waterloo)</p>
 <p>Ting Zhang (U of Georgia)</p>
 
 
