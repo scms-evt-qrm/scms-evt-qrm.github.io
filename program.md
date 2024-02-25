@@ -36,7 +36,7 @@ permalink: /program/
 <p>John Einmahl (Tilburg)</p>
 <p>Sidney Resnick (Cornell)</p>
 <p>Holger Rootzén (Chalmers)</p>
-<p>Richard Smith(UNC Chapel Hill)</p>
+<p>Richard Smith (UNC Chapel Hill)</p>
 
 ## Invited Speaker
 <p>Tim Boonen (HKU)</p>
