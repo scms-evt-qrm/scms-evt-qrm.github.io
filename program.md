@@ -42,6 +42,7 @@ permalink: /program/
 <p>Tim Boonen (HKU)</p>
 <p>Zaoli Chen (Ottawa)</p>
 <p>Bikramjit Das (SUTD)</p>
+<p>Jiaying Gu (UToronto)</p>
 <p>Mihyun Kim (West Virginia)</p>
 <p>Jeongjin Lee (U of Namur)</p>
 <p>Yongcheng Qi (Minnesota Duluth)</p>
