@@ -3,4 +3,5 @@ layout: page
 title: Registration
 permalink: /registration/
 ---
-<b>under construction<b>
+
+<p><a href="[https://wj.qq.com/s2/14588454/12d4/]" target="_blank">Registration Form</a></p>
