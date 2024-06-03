@@ -56,6 +56,47 @@ Registration
 <td></td>
 
 </tr>
+
+<tr>
+
+<td></td>
+
+<td>10:15-10:30</td>
+<div style="text-align: center;">
+<td>Tea Break</td>
+</div>
+<td></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td>09:15-10:15</td>
+
+<td>
+<div style="text-align: center;">
+<p>Keynote Talk：Extreme and Quantitative Risk Management in Climate Science</p>
+<p>Speaker：Richard Smith（University of North Carolina Chapel Hill USA）</p>
+</div>
+</td>
+<td></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td>11:30-14:00</td>
+<div style="text-align: center;">
+<td>Lunch</td>
+</div>
+<td></td>
+
+</tr>
+
 </table>
 
 ## Keynote Speaker
