@@ -45,8 +45,6 @@ Opening and Photos
 </div>
 </td>
 
-<td></td>
-
 </tr>
 
 <tr>
@@ -61,7 +59,6 @@ Opening and Photos
 <p>Speaker：Sidney Resnick（Cornell University）</p>
 </div>
 </td>
-<td></td>
 
 </tr>
 
@@ -77,8 +74,6 @@ Tea Break
 </div>
 </td>
 
-<td></td>
-
 </tr>
 
 <tr>
@@ -93,7 +88,6 @@ Tea Break
 <p>Speaker：Richard Smith（University of North Carolina Chapel Hill USA）</p>
 </div>
 </td>
-<td></td>
 
 </tr>
 
@@ -108,8 +102,6 @@ Tea Break
 Lunch
 </div>
 </td>
-
-<td></td>
 
 </tr>
 
@@ -130,7 +122,6 @@ Lunch
 <p>Speaker：Ting Zhang（The University of Georgia）</p>
 </div>
 </td>
-<td></td>
 
 </tr>
 
@@ -147,7 +138,6 @@ Lunch
 <p>Speaker：Jiaying Gu（University of Toronto）</p>
 </div>
 </td>
-<td></td>
 
 </tr>
 
@@ -163,7 +153,6 @@ Tea Break
 </div>
 </td>
 
-<td></td>
 
 </tr>
 
@@ -179,7 +168,6 @@ Tea Break
 <p>Speaker：Yongcheng Qi（University of Minnesota Twin Cities）</p>
 </div>
 </td>
-<td></td>
 
 </tr>
 
@@ -195,7 +183,6 @@ Dinner
 </div>
 </td>
 
-<td></td>
 
 </tr>
 
@@ -215,7 +202,6 @@ Dinner
 <p>Speaker：Holger Rootzén（Chalmers University of Technology）</p>
 </div>
 </td>
-<td></td>
 
 </tr>
 
@@ -231,7 +217,6 @@ Dinner
 Tea Break
 </div>
 </td>
-<td></td>
 
 </tr>
 
@@ -255,8 +240,6 @@ Tea Break
 
 <tr>
 
-
-
 <td>11:30-14:00</td>
 
 <td>
@@ -264,8 +247,6 @@ Tea Break
 Lunch
 </div>
 </td>
-
-<td></td>
 
 </tr>
 
