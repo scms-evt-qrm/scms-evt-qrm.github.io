@@ -422,7 +422,7 @@ Lunch
 </div>
 </td>
 
-
+<tr>
 
 <th rowspan="5">
 <div style="text-align: center;">
