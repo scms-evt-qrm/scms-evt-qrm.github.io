@@ -18,7 +18,11 @@ Title
 </thead>
 <tr>
 
-<th rowspan="6">7.29 Morning</th>
+<th rowspan="6">
+<div style="text-align: center;">
+7.29 Morning
+</div>
+</th>
 
 <td>08:15-08:45</td>
 
@@ -35,9 +39,12 @@ Registration
 
 
 <td>08:45-09:15</td>
+<td>
 <div style="text-align: center;">
-<td>Opening and Photos</td>
+Opening and Photos
 </div>
+</td>
+
 <td></td>
 
 </tr>
