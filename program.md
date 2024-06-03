@@ -104,7 +104,7 @@ Tea Break
 <td>
 <div style="text-align: center;">
 <p>Keynote Talk：Extreme and Quantitative Risk Management in Climate Science</p>
-<p>Speaker：Richard Smith（University of North Carolina Chapel Hill USA）</p>
+<p>Speaker：Richard Smith（University of North Carolina Chapel Hill）</p>
 </div>
 </td>
 
