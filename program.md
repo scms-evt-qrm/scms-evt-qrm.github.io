@@ -52,7 +52,7 @@ Registration
 </div>
 </td>
 
-</tr>
+
 <tr>
 
 
@@ -64,7 +64,7 @@ Opening and Photos
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -79,7 +79,7 @@ Opening and Photos
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -93,7 +93,7 @@ Tea Break
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -108,7 +108,7 @@ Tea Break
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -498,9 +498,19 @@ Dinner
 </td>
 
 <tr>
-<td>8.1</td>
-<td>All time</td>
-<td>Leaving the meeting</td>
+<td>
+<div style="text-align: center;">
+8.1
+</div>
+</td>
+<td>
+All time
+
+</td>
+<div style="text-align: center;">
+<td>Leaving the meeting
+</div>
+</td>
 
 
 
