@@ -6,6 +6,7 @@ permalink: /program/
 
 <table>
 <thead>
+
 <th>Date</th>
 <th>Time</th>
 <th>
@@ -17,7 +18,7 @@ Title
 </thead>
 <tr>
 
-<td></td>
+<th rowspan="6">7.29 Morning</th>
 
 <td>08:15-08:45</td>
 
@@ -31,7 +32,7 @@ Registration
 </tr>
 <tr>
 
-<td></td>
+
 
 <td>08:45-09:15</td>
 <div style="text-align: center;">
@@ -43,7 +44,7 @@ Registration
 
 <tr>
 
-<td></td>
+
 
 <td>09:15-10:15</td>
 
@@ -59,7 +60,7 @@ Registration
 
 <tr>
 
-<td></td>
+
 
 <td>10:15-10:30</td>
 <div style="text-align: center;">
@@ -71,7 +72,7 @@ Registration
 
 <tr>
 
-<td></td>
+
 
 <td>09:15-10:15</td>
 
@@ -87,7 +88,7 @@ Registration
 
 <tr>
 
-<td></td>
+
 
 <td>11:30-14:00</td>
 <div style="text-align: center;">
