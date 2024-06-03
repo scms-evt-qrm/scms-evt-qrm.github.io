@@ -269,6 +269,86 @@ Lunch
 
 </tr>
 
+<tr>
+
+<th rowspan="5">
+<div style="text-align: center;">
+7.30 Afternoon
+</div>
+</th>
+
+<td>14:00-14:50</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Tail association in higher dimensions with applications to systemic risk</p>
+<p>Speaker：Speaker：Bikramjit Das（Singapore University of Technology and Design）</p>
+</div>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+
+<td>14:50-15:30</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Invited Talk：Extremal correlation coefficient for functional data</p>
+<p>Speaker：Mihyun Kim（West Virginia University WV USA）</p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>15:30-16:00</td>
+<div style="text-align: center;">
+<td>
+<div style="text-align: center;">
+Tea Break
+</div>
+</td>
+
+
+</tr>
+
+<tr>
+
+
+
+<td>16:00-16:50</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：X-vine models for multivariate extremes</p>
+<p>Speaker：Speaker：Jeongjin Lee（University of Namur）</p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>17:00-20:00</td>
+
+<td>
+<div style="text-align: center;">
+Dinner
+</div>
+</td>
+
+
+</tr>
+
 </table>
 
 
