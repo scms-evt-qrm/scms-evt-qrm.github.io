@@ -71,8 +71,12 @@ Opening and Photos
 
 <td>10:15-10:30</td>
 <div style="text-align: center;">
-<td>Tea Break</td>
+<td>
+<div style="text-align: center;">
+Tea Break
 </div>
+</td>
+
 <td></td>
 
 </tr>
@@ -98,9 +102,13 @@ Opening and Photos
 
 
 <td>11:30-14:00</td>
+
+<td>
 <div style="text-align: center;">
-<td>Lunch</td>
+Lunch
 </div>
+</td>
+
 <td></td>
 
 </tr>
