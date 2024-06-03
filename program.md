@@ -3,6 +3,26 @@ layout: page
 title: Program
 permalink: /program/
 ---
+## Keynote Speaker
+<p>John Einmahl (Tilburg)</p>
+<p>Sidney Resnick (Cornell)</p>
+<p>Holger Rootzén (Chalmers)</p>
+<p>Richard Smith (UNC Chapel Hill)</p>
+
+## Invited Speaker
+<p>Tim Boonen (HKU)</p>
+<p>Zaoli Chen (Ottawa)</p>
+<p>Bikramjit Das (SUTD)</p>
+<p>Jiaying Gu (UToronto)</p>
+<p>Mihyun Kim (West Virginia)</p>
+<p>Jeongjin Lee (U of Namur)</p>
+<p>Yongcheng Qi (Minnesota Duluth)</p>
+<p>Yi Shen (Waterloo)</p>
+<p>Hoi Ying Wong (CUHK)</p>
+<p>Phllip Yam (CUHK)</p>
+<p>Fan Yang (Waterloo)</p>
+<p>Ting Zhang (U of Georgia)</p>
+
 
 <table>
 <thead>
@@ -251,24 +271,6 @@ Lunch
 
 </table>
 
-## Keynote Speaker
-<p>John Einmahl (Tilburg)</p>
-<p>Sidney Resnick (Cornell)</p>
-<p>Holger Rootzén (Chalmers)</p>
-<p>Richard Smith (UNC Chapel Hill)</p>
 
-## Invited Speaker
-<p>Tim Boonen (HKU)</p>
-<p>Zaoli Chen (Ottawa)</p>
-<p>Bikramjit Das (SUTD)</p>
-<p>Jiaying Gu (UToronto)</p>
-<p>Mihyun Kim (West Virginia)</p>
-<p>Jeongjin Lee (U of Namur)</p>
-<p>Yongcheng Qi (Minnesota Duluth)</p>
-<p>Yi Shen (Waterloo)</p>
-<p>Hoi Ying Wong (CUHK)</p>
-<p>Phllip Yam (CUHK)</p>
-<p>Fan Yang (Waterloo)</p>
-<p>Ting Zhang (U of Georgia)</p>
 
 
