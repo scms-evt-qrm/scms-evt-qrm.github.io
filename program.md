@@ -3,11 +3,17 @@ layout: page
 title: Program
 permalink: /program/
 ---
+
+
 <table>
 <thead>
 <th>Date</th>
 <th>Time</th>
-<th>Title</th>
+<th>
+<div style="text-align: center;">
+Title
+</div>
+</th>
 <th>Host</th>
 </thead>
 <tr>
@@ -16,7 +22,11 @@ permalink: /program/
 
 <td>08:15-08:45</td>
 
-<td>Registration</td>
+<td>
+<div style="text-align: center;">
+Registration
+</div>
+</td>
 <td></td>
 
 </tr>
@@ -37,14 +47,13 @@ permalink: /program/
 
 <td>09:15-10:15</td>
 
-<td>Keynote Talk：Distinguishing Forms of Asymptotic Dependence in Heavy Tailed Data
-Speaker：Sidney Resnick（Cornell University）
+<td><p>Keynote Talk：Distinguishing Forms of Asymptotic Dependence in Heavy Tailed Data</p>
+<p>Speaker：Sidney Resnick（Cornell University）</p>
 </td>
 <td></td>
 
 </tr>
 </table>
-
 ## Keynote Speaker
 <p>John Einmahl (Tilburg)</p>
 <p>Sidney Resnick (Cornell)</p>
