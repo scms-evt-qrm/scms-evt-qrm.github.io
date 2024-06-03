@@ -282,7 +282,7 @@ Lunch
 <td>
 <div style="text-align: center;">
 <p>Invited Talk：Tail association in higher dimensions with applications to systemic risk</p>
-<p>Speaker：Speaker：Bikramjit Das（Singapore University of Technology and Design）</p>
+<p>Speaker：Bikramjit Das（Singapore University of Technology and Design）</p>
 </div>
 </td>
 
@@ -328,7 +328,7 @@ Tea Break
 <td>
 <div style="text-align: center;">
 <p>Invited Talk：X-vine models for multivariate extremes</p>
-<p>Speaker：Speaker：Jeongjin Lee（University of Namur）</p>
+<p>Speaker：Jeongjin Lee（University of Namur）</p>
 </div>
 </td>
 
