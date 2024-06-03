@@ -198,6 +198,77 @@ Dinner
 <td></td>
 
 </tr>
+
+<tr>
+
+<th rowspan="4">
+<div style="text-align: center;">
+7.30 Morning
+</div>
+</th>
+
+<td>09:15-10:15</td>
+
+<td>
+<div style="text-align: center;">
+<p>Keynote Talk：Is there a cap on how long a human can live? Truncation, censoring and extreme value modelling</p>
+<p>Speaker：Holger Rootzén（Chalmers University of Technology）</p>
+</div>
+</td>
+<td></td>
+
+</tr>
+
+
+<tr>
+
+
+
+<td>10:15-10:30</td>
+
+<td>
+<div style="text-align: center;">
+Tea Break
+</div>
+</td>
+<td></td>
+
+</tr>
+
+
+
+<tr>
+
+
+
+<td>10:30-11:30</td>
+
+<td>
+<div style="text-align: center;">
+<p>Keynote Talk：Extreme value inference for general heterogeneous data</p>
+<p>Speaker：John Einmahl（Tilburg University）</p>
+</div>
+</td>
+<td></td>
+
+</tr>
+
+<tr>
+
+
+
+<td>11:30-14:00</td>
+
+<td>
+<div style="text-align: center;">
+Lunch
+</div>
+</td>
+
+<td></td>
+
+</tr>
+
 </table>
 
 ## Keynote Speaker
