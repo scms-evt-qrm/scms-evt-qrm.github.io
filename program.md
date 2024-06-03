@@ -12,7 +12,7 @@ permalink: /program/
 </thead>
 <tr>
 
-<td>1</td>
+<td></td>
 
 <td>08:15-08:45</td>
 
