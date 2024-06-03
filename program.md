@@ -122,7 +122,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 
 <tr>
@@ -203,7 +203,7 @@ Dinner
 </td>
 
 
-</tr>
+
 
 <tr>
 
@@ -267,7 +267,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -345,7 +345,7 @@ Dinner
 </td>
 
 
-</tr>
+
 
 <tr>
 
@@ -423,7 +423,6 @@ Lunch
 </td>
 
 
-</tr>
 
 <th rowspan="5">
 <div style="text-align: center;">
@@ -499,7 +498,7 @@ Dinner
 </td>
 
 
-</tr>
+
 
 
 
