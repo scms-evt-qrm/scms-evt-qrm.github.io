@@ -4,15 +4,15 @@ title: Program
 permalink: /program/
 ---
 
-
+<div style="text-align: center;">
 <table>
 <thead>
 <th>Date</th>
 <th>Time</th>
 <th>
-<div style="text-align: center;">
+
 Title
-</div>
+
 </th>
 <th>Host</th>
 </thead>
@@ -23,9 +23,9 @@ Title
 <td>08:15-08:45</td>
 
 <td>
-<div style="text-align: center;">
+
 Registration
-</div>
+
 </td>
 <td></td>
 
@@ -54,6 +54,7 @@ Registration
 
 </tr>
 </table>
+</div>
 ## Keynote Speaker
 <p>John Einmahl (Tilburg)</p>
 <p>Sidney Resnick (Cornell)</p>
