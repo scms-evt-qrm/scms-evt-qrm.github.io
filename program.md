@@ -5,29 +5,42 @@ permalink: /program/
 ---
 <table>
 <thead>
-<th>Time</th>
 <th>Date</th>
 <th>Time</th>
-<th>Date</th>
+<th>Title</th>
+<th>Host</th>
 </thead>
 <tr>
 
 <td>1</td>
 
-<td>2</td>
+<td>08:15-08:45</td>
 
-<td>3</td>
-<td>4</td>
+<td>Registration</td>
+<td></td>
 
 </tr>
 <tr>
 
-<td>1</td>
+<td></td>
 
-<td>2</td>
+<td>08:45-09:15</td>
 
-<td>3</td>
-<td>4</td>
+<td>Opening and Photos</td>
+<td></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td>09:15-10:15</td>
+
+<td>Keynote Talk：Distinguishing Forms of Asymptotic Dependence in Heavy Tailed Data
+Speaker：Sidney Resnick（Cornell University）
+</td>
+<td></td>
 
 </tr>
 </table>
