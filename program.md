@@ -14,7 +14,7 @@ permalink: /program/
 Title
 </div>
 </th>
-<th>Host</th>
+
 </thead>
 <tr>
 
@@ -234,7 +234,7 @@ Tea Break
 <p>Speaker：John Einmahl（Tilburg University）</p>
 </div>
 </td>
-<td></td>
+
 
 </tr>
 
