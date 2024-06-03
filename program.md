@@ -113,6 +113,91 @@ Lunch
 
 </tr>
 
+
+<tr>
+
+<th rowspan="5">
+<div style="text-align: center;">
+7.29 Afternoon
+</div>
+</th>
+
+<td>14:00-14:50</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Tail Spectral Density Estimation and Its Uncertainty Quantification: Another Look at Tail Dependent Time Series Analysis</p>
+<p>Speaker：Ting Zhang（The University of Georgia）</p>
+</div>
+</td>
+<td></td>
+
+</tr>
+
+
+<tr>
+
+
+
+<td>14:50-15:30</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Some new results on Empirical Bayes Method in Economics</p>
+<p>Speaker：Jiaying Gu（University of Toronto）</p>
+</div>
+</td>
+<td></td>
+
+</tr>
+
+<tr>
+
+
+
+<td>15:30-16:00</td>
+<div style="text-align: center;">
+<td>
+<div style="text-align: center;">
+Tea Break
+</div>
+</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+
+
+<td>16:00-16:50</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Extreme Values in Random Matrix Theory</p>
+<p>Speaker：Yongcheng Qi（University of Minnesota Twin Cities）</p>
+</div>
+</td>
+<td></td>
+
+</tr>
+
+<tr>
+
+
+
+<td>17:00-20:00</td>
+
+<td>
+<div style="text-align: center;">
+Dinner
+</div>
+</td>
+
+<td></td>
+
+</tr>
 </table>
 
 ## Keynote Speaker
