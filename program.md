@@ -336,8 +336,6 @@ Tea Break
 
 <tr>
 
-
-
 <td>17:00-20:00</td>
 
 <td>
@@ -349,7 +347,159 @@ Dinner
 
 </tr>
 
+<tr>
 
+<th rowspan="5">
+<div style="text-align: center;">
+7.31 Morning
+</div>
+</th>
+
+<td>09:15-10:05</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Robust Dividend Policy: Equivalence of Epstein-Zin and Meanhout Preferences</p>
+<p>Speaker：Hoi Ying Wong（The Chinese University of Hong Kong）</p>
+</div>
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>10:05-10:20</td>
+
+<td>
+<div style="text-align: center;">
+Tea Break
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>10:20-11:10</td>
+<div style="text-align: center;">
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Taylor’s Law of Fluctuation Scaling for Heavy-tailed Data and Networks</p>
+<p>Speaker：Phllip Yam（The Chinese University of Hong Kong）</p>
+</div>
+</td>
+
+
+</tr>
+
+<tr>
+
+
+
+<td>11:10-12:00</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Flood risk insurance: A micro-economic foundation</p>
+<p>Speaker：Tim Boonen（The University of Hong Kong）</p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>12:00-14:00</td>
+
+<td>
+<div style="text-align: center;">
+Lunch
+</div>
+</td>
+
+
+</tr>
+
+<th rowspan="5">
+<div style="text-align: center;">
+7.31 Afternoon
+</div>
+</th>
+
+<td>14:00-14:50</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Systemic risk shift</p>
+<p>Speaker：Fan Yang（University of Waterloo）</p>
+</div>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+
+<td>14:50-15:30</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Partially Law-Invariant Risk Measures</p>
+<p>Speaker：Speaker：Yi Shen（University of Waterloo）</p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>15:30-16:00</td>
+<div style="text-align: center;">
+<td>
+<div style="text-align: center;">
+Tea Break
+</div>
+</td>
+
+
+</tr>
+
+<tr>
+
+
+
+<td>16:00-16:50</td>
+
+<td>
+<div style="text-align: center;">
+<p>Invited Talk：Moderately Heavy-Tailed Extremes under Long-Range Dependence</p>
+<p>Speaker：Zaoli Chen（University of Ottawa）</p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+
+<td>17:00-20:00</td>
+
+<td>
+<div style="text-align: center;">
+Dinner
+</div>
+</td>
+
+
+</tr>
 
 
 
