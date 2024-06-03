@@ -31,7 +31,6 @@ Title
 Registration
 </div>
 </td>
-<td></td>
 
 </tr>
 <tr>
