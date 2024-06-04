@@ -142,7 +142,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 
 <tr>
@@ -158,7 +158,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -173,7 +173,7 @@ Tea Break
 </td>
 
 
-</tr>
+
 
 <tr>
 
@@ -188,7 +188,7 @@ Tea Break
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -222,7 +222,7 @@ Dinner
 </div>
 </td>
 
-</tr>
+
 
 
 <tr>
@@ -237,7 +237,7 @@ Tea Break
 </div>
 </td>
 
-</tr>
+
 
 
 
@@ -255,7 +255,7 @@ Tea Break
 </td>
 
 
-</tr>
+
 
 <tr>
 
@@ -286,7 +286,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 
 <tr>
@@ -302,7 +302,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -317,7 +317,7 @@ Tea Break
 </td>
 
 
-</tr>
+
 
 <tr>
 
@@ -332,7 +332,7 @@ Tea Break
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -364,7 +364,7 @@ Dinner
 </div>
 </td>
 
-</tr>
+
 
 
 <tr>
@@ -377,7 +377,7 @@ Tea Break
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -393,7 +393,7 @@ Tea Break
 </td>
 
 
-</tr>
+
 
 <tr>
 
@@ -408,7 +408,7 @@ Tea Break
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -439,7 +439,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 
 <tr>
@@ -455,7 +455,7 @@ Lunch
 </div>
 </td>
 
-</tr>
+
 
 <tr>
 
@@ -470,7 +470,7 @@ Tea Break
 </td>
 
 
-</tr>
+
 
 <tr>
 
@@ -485,7 +485,6 @@ Tea Break
 </div>
 </td>
 
-</tr>
 
 <tr>
 
@@ -507,10 +506,13 @@ Dinner
 All time
 
 </td>
+
+<td>
 <div style="text-align: center;">
-<td>Leaving the meeting
+Leaving the meeting
 </div>
 </td>
+
 
 
 
