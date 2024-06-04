@@ -99,7 +99,7 @@ Tea Break
 
 
 
-<td>09:15-10:15</td>
+<td>10:30-11:30</td>
 
 <td>
 <div style="text-align: center;">
