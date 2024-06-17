@@ -388,7 +388,7 @@ Tea Break
 <td>
 <div style="text-align: center;">
 <p>Invited Talk：Taylor’s Law of Fluctuation Scaling for Heavy-tailed Data and Networks</p>
-<p>Speaker：Phllip Yam（The Chinese University of Hong Kong）</p>
+<p>Speaker：Phillip Yam（The Chinese University of Hong Kong）</p>
 </div>
 </td>
 
