@@ -19,7 +19,7 @@ permalink: /program/
 <p>Yongcheng Qi (Minnesota Duluth)</p>
 <p>Yi Shen (Waterloo)</p>
 <p>Hoi Ying Wong (CUHK)</p>
-<p>Phllip Yam (CUHK)</p>
+<p>Phillip Yam (CUHK)</p>
 <p>Fan Yang (Waterloo)</p>
 <p>Ting Zhang (U of Georgia)</p>
 
